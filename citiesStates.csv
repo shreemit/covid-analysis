@@ -1,0 +1,181 @@
+,City,State,population
+0,Mumbai,Maharashtra,12442373
+1,Delhi,Delhi,11007835
+2,Bangalore,Karnataka,8436675
+3,Hyderabad,Telangana,6809970
+4,Ahmedabad,Gujarat,5570585
+5,Chennai,Tamil Nadu,4681087
+6,Kolkata,West Bengal,4486679
+7,Surat,Gujarat,4467797
+8,Pune,Maharashtra,3124458
+9,Jaipur,Rajasthan,3046163
+10,Kanpur,Uttar Pradesh,2765348
+11,Nagpur,Maharashtra,2405665
+12,Lucknow,Uttar Pradesh,2317105
+13,Visakhapatnam[a][5],Andhra Pradesh,2035922
+14,Thane,Maharashtra,1841488
+15,Rome,Lazio,2856133
+16,Milan,Lombardy,1378689
+17,Naples,Campania,959188
+18,Turin,Piedmont,875698
+19,Palermo,Sicily,663401
+20,Genoa,Liguria,578000
+21,Bologna,Emilia-Romagna,390636
+22,Florence,Tuscany,378839
+23,Bari,Apulia,320862
+24,Catania,Sicily,311584
+25,Venice,Veneto,260520
+26,Verona,Veneto,257993
+27,Messina,Sicily,232555
+28,Padua,Veneto,210912
+29,Trieste,Friuli-Venezia Giulia,204267
+30,Paris,Île-de-France,2187526
+31,Marseille,Provence-Alpes-Côte d'Azur,863310
+32,Lyon,Auvergne-Rhône-Alpes,516092
+33,Toulouse,Occitanie,479553
+34,Nice,Provence-Alpes-Côte d'Azur,340017
+35,Nantes,Pays de la Loire,309346
+36,Montpellier,Occitanie,285121
+37,Strasbourg,Grand Est,280966
+38,Bordeaux,Nouvelle-Aquitaine,254436
+39,Lille,Hauts-de-France,232787
+40,Rennes,Brittany,216815
+41,Reims,Grand Est,182460
+42,Saint-Étienne,Auvergne-Rhône-Alpes,172565
+43,Toulon,Provence-Alpes-Côte d'Azur,171953
+44,Le Havre,Normandy,170147
+45,Madrid,,6155116
+46,Barcelona,,5179243
+47,Valencia(–Sagunto),,1645342
+48,Seville,,1305342
+49,Bilbao,,987000
+50,Málaga,,944000
+51,Oviedo–Gijón–Avilés,,844000
+52,Alicante–Elche(–Elda),,793000
+53,Las Palmas,,640000
+54,Zaragoza,,639000
+55,Murcia–Orihuela,,623000
+56,Santa Cruz de Tenerife–La Laguna,,581947
+57,Granada,,440000
+58,Palma,,433000
+59,Vigo,,413000
+60,London,,7556900
+61,Birmingham,,984333
+62,Liverpool,,864122
+63,Nottingham,,729977
+64,Sheffield,,685368
+65,Bristol,,617280
+66,Glasgow,,591620
+67,Leicester,,508916
+68,Edinburgh,,464990
+69,Leeds,,455123
+70,Cardiff,,447287
+71,Manchester,,395515
+72,Stoke-on-Trent,,372775
+73,Coventry,,359262
+74,Sunderland,,335415
+75,São Paulo,São Paulo,12252023
+76,Rio de Janeiro,Rio de Janeiro,6718903
+77,Brasília,Distrito Federal,3015268
+78,Salvador,Bahia,2872347
+79,Fortaleza,Ceará,2669342
+80,Belo Horizonte,Minas Gerais,2512070
+81,Manaus,Amazonas,2182763
+82,Curitiba,Paraná,1933105
+83,Recife,Pernambuco,1645727
+84,Goiânia,Goiás,1516113
+85,Belém,Pará,1492745
+86,Porto Alegre,Rio Grande do Sul,1483771
+87,Guarulhos,São Paulo,1379182
+88,Campinas,São Paulo,1204073
+89,São Luís,Maranhão,1101884
+90,Shanghai,,22315474
+91,Beijing,,11716620
+92,Tianjin,,11090314
+93,Guangzhou,,11071424
+94,Shenzhen,,10358381
+95,Wuhan,,9785388
+96,Dongguan,,8000000
+97,Chongqing,,7457600
+98,Chengdu,,7415590
+99,Nanjing,,7165292
+100,Nanchong,,7150000
+101,Xi'an,,6501190
+102,Shenyang,,6255921
+103,Hangzhou,,6241971
+104,Harbin,,5878939
+105,Sydney,New South Wales,5230330
+106,Melbourne,Victoria,4936349
+107,Brisbane,Queensland,2462637
+108,Perth,Western Australia,2059484
+109,Adelaide,South Australia,1345777
+110,Gold Coast–Tweed Heads,Queensland/New South Wales,679127
+111,Newcastle–Maitland,New South Wales,486704
+112,Canberra–Queanbeyan,Australian Capital Territory/New South Wales,457563
+113,Sunshine Coast,Queensland,333436
+114,Wollongong,New South Wales,302739
+115,Geelong,Victoria,268277
+116,Hobart,Tasmania,232606
+117,Townsville,Queensland,180820
+118,Cairns,Queensland,152729
+119,Darwin,Northern Territory,148564
+120,New York[d],New York,8336817
+121,Los Angeles,California,3979576
+122,Chicago,Illinois,2693976
+123,Houston[3],Texas,2320268
+124,Phoenix,Arizona,1680992
+125,Philadelphia[e],Pennsylvania,1584064
+126,San Antonio,Texas,1547253
+127,San Diego,California,1423851
+128,Dallas,Texas,1343573
+129,San Jose,California,1021795
+130,Austin,Texas,978908
+131,Jacksonville[f],Florida,911507
+132,Fort Worth,Texas,909585
+133,Columbus,Ohio,898553
+134,Charlotte,North Carolina,885708
+135,Tehran,Tehran,9135000
+136,Mashhad,Razavi Khorasan,3208000
+137,Isfahan,Isfahan,2132000
+138,Karaj,Alborz,1592492
+139,Shiraz,Fars,1565572
+140,Tabriz,East Azerbaijan,1558693
+141,Qom,Qom,1288000
+142,Ahvaz,Khuzestan,1244000
+143,Kermanshah,Kermanshah,1026000
+144,Urmia,West Azerbaijan,793000
+145,Rasht,Gilan,713000
+146,Zahedan,Sistan and Baluchestan,610000
+147,Hamadan,Hamadan,554405
+148,Kerman,Kerman,537718
+149,Yazd,Yazd,529673
+150,Stockholm,,1515017
+151,Goeteborg,,572799
+152,Malmoe,,301706
+153,Uppsala,,149245
+154,Sollentuna,,139606
+155,Soedermalm,,127323
+156,Vaesteras,,117746
+157,OErebro,,115765
+158,Linkoeping,,106502
+159,Helsingborg,,104250
+160,Joenkoeping,,93797
+161,Norrkoeping,,93765
+162,Huddinge,,90182
+163,Lund,,87244
+164,Umea,,83249
+165,Berlin,Berlin,3520031
+166,Hamburg,Hamburg,1787408
+167,Munich (München),Bavaria,1450381
+168,Cologne (Köln),North Rhine-Westphalia,1060582
+169,Frankfurt am Main,Hesse,732688
+170,Stuttgart,Baden-Württemberg,623738
+171,Düsseldorf,North Rhine-Westphalia,612178
+172,Dortmund,North Rhine-Westphalia,586181
+173,Essen,North Rhine-Westphalia,582624
+174,Leipzig,Saxony,560472
+175,Bremen,Bremen,557464
+176,Dresden,Saxony,543825
+177,Hanover (Hannover),Lower Saxony,532163
+178,Nuremberg (Nürnberg),Bavaria,509975
+179,Duisburg,North Rhine-Westphalia,491231
